@@ -1,5 +1,7 @@
 # MapCap IPO · Pioneer Frontend
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![CI](https://github.com/EslaM-X/mapcap-ipo-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/EslaM-X/mapcap-ipo-frontend/actions)
+
 Pioneer-facing dashboard for the MapCap IPO on the Pi Network: live
 "water-level" price charting, the four mandatory IPO metrics, and
 non-custodial Pi payments via the Pi Browser SDK.
